@@ -1,0 +1,443 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\clinic final\\clinic final\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|solutionrelative:clinic final\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\clinic final\\clinic final\\repos\\irepos\\iappointrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|solutionrelative:clinic final\\repos\\irepos\\iappointrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\clinic final\\clinic final\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|solutionrelative:clinic final\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\clinic final\\clinic final\\repos\\implementation\\appointmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|solutionrelative:clinic final\\repos\\implementation\\appointmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\clinic final\\clinic final\\views\\appointment\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|solutionrelative:clinic final\\views\\appointment\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\clinic final\\clinic final\\views\\appointment\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|solutionrelative:clinic final\\views\\appointment\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\clinic final\\clinic final\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|solutionrelative:clinic final\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\clinic final\\clinic final\\views\\appointment\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|solutionrelative:clinic final\\views\\appointment\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\clinic final\\clinic final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|solutionrelative:clinic final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\clinic final\\clinic final\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|solutionrelative:clinic final\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\clinic final\\clinic final\\views\\appointment\\getallappointments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|solutionrelative:clinic final\\views\\appointment\\getallappointments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\clinic final\\clinic final\\models\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|solutionrelative:clinic final\\models\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\clinic final\\clinic final\\models\\viewmodels\\appointviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|solutionrelative:clinic final\\models\\viewmodels\\appointviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\clinic final\\clinic final\\repos\\irepos\\idoctorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|solutionrelative:clinic final\\repos\\irepos\\idoctorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\clinic final\\clinic final\\repos\\implementation\\doctorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|solutionrelative:clinic final\\repos\\implementation\\doctorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\clinic final\\clinic final\\views\\patient\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|solutionrelative:clinic final\\views\\patient\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\clinic final\\clinic final\\views\\patient\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|solutionrelative:clinic final\\views\\patient\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\clinic final\\clinic final\\views\\patient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|solutionrelative:clinic final\\views\\patient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\clinic final\\clinic final\\views\\patient\\getallpatients.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|solutionrelative:clinic final\\views\\patient\\getallpatients.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\clinic final\\clinic final\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|solutionrelative:clinic final\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\clinic final\\clinic final\\views\\doctor\\getalldoctors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|solutionrelative:clinic final\\views\\doctor\\getalldoctors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\clinic final\\clinic final\\views\\doctor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|solutionrelative:clinic final\\views\\doctor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\clinic final\\clinic final\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|solutionrelative:clinic final\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\clinic final\\clinic final\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|solutionrelative:clinic final\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\clinic final\\clinic final\\models\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|solutionrelative:clinic final\\models\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\clinic final\\clinic final\\models\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877E58FE-8740-42C0-AF2B-919994133F49}|Clinic Final\\Clinic Final.csproj|solutionrelative:clinic final\\models\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Program.cs",
+              "RelativeDocumentMoniker": "Clinic Final\\Program.cs",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Program.cs",
+              "RelativeToolTip": "Clinic Final\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T16:26:33.966Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppointmentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Repos\\Implementation\\AppointmentRepo.cs",
+              "RelativeDocumentMoniker": "Clinic Final\\Repos\\Implementation\\AppointmentRepo.cs",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Repos\\Implementation\\AppointmentRepo.cs",
+              "RelativeToolTip": "Clinic Final\\Repos\\Implementation\\AppointmentRepo.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAswEQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:22:48.097Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAppointRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Repos\\IRepos\\IAppointRepo.cs",
+              "RelativeDocumentMoniker": "Clinic Final\\Repos\\IRepos\\IAppointRepo.cs",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Repos\\IRepos\\IAppointRepo.cs",
+              "RelativeToolTip": "Clinic Final\\Repos\\IRepos\\IAppointRepo.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:23:14.93Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Models\\Entities\\Appointment.cs",
+              "RelativeDocumentMoniker": "Clinic Final\\Models\\Entities\\Appointment.cs",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Models\\Entities\\Appointment.cs",
+              "RelativeToolTip": "Clinic Final\\Models\\Entities\\Appointment.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T16:11:47.025Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "Clinic Final\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "Clinic Final\\Controllers\\AppointmentController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T16:55:45.442Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Views\\Appointment\\Details.cshtml",
+              "RelativeDocumentMoniker": "Clinic Final\\Views\\Appointment\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Views\\Appointment\\Details.cshtml",
+              "RelativeToolTip": "Clinic Final\\Views\\Appointment\\Details.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAowCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T11:16:52.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Clinic Final\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "Clinic Final\\Controllers\\DoctorController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:51:41.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Views\\Appointment\\Update.cshtml",
+              "RelativeDocumentMoniker": "Clinic Final\\Views\\Appointment\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Views\\Appointment\\Update.cshtml",
+              "RelativeToolTip": "Clinic Final\\Views\\Appointment\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T11:25:41.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Views\\Appointment\\Create.cshtml",
+              "RelativeDocumentMoniker": "Clinic Final\\Views\\Appointment\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Views\\Appointment\\Create.cshtml",
+              "RelativeToolTip": "Clinic Final\\Views\\Appointment\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T10:41:30.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Views\\Appointment\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Clinic Final\\Views\\Appointment\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Views\\Appointment\\Delete.cshtml",
+              "RelativeToolTip": "Clinic Final\\Views\\Appointment\\Delete.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T11:19:47.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetAllAppointments.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Views\\Appointment\\GetAllAppointments.cshtml",
+              "RelativeDocumentMoniker": "Clinic Final\\Views\\Appointment\\GetAllAppointments.cshtml",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Views\\Appointment\\GetAllAppointments.cshtml",
+              "RelativeToolTip": "Clinic Final\\Views\\Appointment\\GetAllAppointments.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T10:38:09.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Clinic Final\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Clinic Final\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAqwCIAAACXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T18:44:29.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppointViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Models\\ViewModels\\AppointViewModel.cs",
+              "RelativeDocumentMoniker": "Clinic Final\\Models\\ViewModels\\AppointViewModel.cs",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Models\\ViewModels\\AppointViewModel.cs",
+              "RelativeToolTip": "Clinic Final\\Models\\ViewModels\\AppointViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:30:25.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IDoctorRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Repos\\IRepos\\IDoctorRepo.cs",
+              "RelativeDocumentMoniker": "Clinic Final\\Repos\\IRepos\\IDoctorRepo.cs",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Repos\\IRepos\\IDoctorRepo.cs",
+              "RelativeToolTip": "Clinic Final\\Repos\\IRepos\\IDoctorRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T16:58:08.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DoctorRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Repos\\Implementation\\DoctorRepo.cs",
+              "RelativeDocumentMoniker": "Clinic Final\\Repos\\Implementation\\DoctorRepo.cs",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Repos\\Implementation\\DoctorRepo.cs",
+              "RelativeToolTip": "Clinic Final\\Repos\\Implementation\\DoctorRepo.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T16:57:31.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Views\\Patient\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Clinic Final\\Views\\Patient\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Views\\Patient\\Delete.cshtml",
+              "RelativeToolTip": "Clinic Final\\Views\\Patient\\Delete.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T19:41:22.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Views\\Patient\\Update.cshtml",
+              "RelativeDocumentMoniker": "Clinic Final\\Views\\Patient\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Views\\Patient\\Update.cshtml",
+              "RelativeToolTip": "Clinic Final\\Views\\Patient\\Update.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T19:39:41.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Views\\Doctor\\Update.cshtml",
+              "RelativeDocumentMoniker": "Clinic Final\\Views\\Doctor\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Views\\Doctor\\Update.cshtml",
+              "RelativeToolTip": "Clinic Final\\Views\\Doctor\\Update.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T19:37:10.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetAllPatients.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Views\\Patient\\GetAllPatients.cshtml",
+              "RelativeDocumentMoniker": "Clinic Final\\Views\\Patient\\GetAllPatients.cshtml",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Views\\Patient\\GetAllPatients.cshtml",
+              "RelativeToolTip": "Clinic Final\\Views\\Patient\\GetAllPatients.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T19:19:31.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Views\\Patient\\Create.cshtml",
+              "RelativeDocumentMoniker": "Clinic Final\\Views\\Patient\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Views\\Patient\\Create.cshtml",
+              "RelativeToolTip": "Clinic Final\\Views\\Patient\\Create.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T19:28:01.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetAllDoctors.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Views\\Doctor\\GetAllDoctors.cshtml",
+              "RelativeDocumentMoniker": "Clinic Final\\Views\\Doctor\\GetAllDoctors.cshtml",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Views\\Doctor\\GetAllDoctors.cshtml",
+              "RelativeToolTip": "Clinic Final\\Views\\Doctor\\GetAllDoctors.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T18:43:24.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Views\\Doctor\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Clinic Final\\Views\\Doctor\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Views\\Doctor\\Delete.cshtml",
+              "RelativeToolTip": "Clinic Final\\Views\\Doctor\\Delete.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T19:35:37.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Views\\Doctor\\Create.cshtml",
+              "RelativeDocumentMoniker": "Clinic Final\\Views\\Doctor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Views\\Doctor\\Create.cshtml",
+              "RelativeToolTip": "Clinic Final\\Views\\Doctor\\Create.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAA8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T18:52:17.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Models\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Clinic Final\\Models\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Models\\AppDBContext.cs",
+              "RelativeToolTip": "Clinic Final\\Models\\AppDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T16:12:35.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Models\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "Clinic Final\\Models\\Entities\\Patient.cs",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Models\\Entities\\Patient.cs",
+              "RelativeToolTip": "Clinic Final\\Models\\Entities\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T16:09:00.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Models\\Entities\\Doctor.cs",
+              "RelativeDocumentMoniker": "Clinic Final\\Models\\Entities\\Doctor.cs",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Clinic Final\\Clinic Final\\Models\\Entities\\Doctor.cs",
+              "RelativeToolTip": "Clinic Final\\Models\\Entities\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T16:08:19.695Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

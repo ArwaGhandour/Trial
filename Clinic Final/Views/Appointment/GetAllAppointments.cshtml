@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Clinic_Final.Models.Entities.Appointment>
+
+@{
+    ViewData["Title"] = "GetAllAppointments";
+}
+
+<h1>GetAllAppointments</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Notes)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.doctors)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.patients)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Notes)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.doctors.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.patients.Name)
+            </td>
+            <td>
+                |
+                <a asp-action="Details" asp-route-id="@item.AppointmentId">Details</a> |
+                
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
